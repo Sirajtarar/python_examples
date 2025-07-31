@@ -1,0 +1,31 @@
+# Example of defining variables in Python
+
+# Integer variable
+age = 25
+
+# Floating-point variable
+height = 5.9
+
+# String variable
+name = "Alice"
+
+# Boolean variable
+is_student = True
+
+# List variable
+colors = ["red", "green", "blue"]
+
+# Dictionary variable
+person = {
+    "name": "Alice",
+    "age": 25,
+    "is_student": True
+}
+
+# Print all variables
+print("Age:", age)
+print("Height:", height)
+print("Name:", name)
+print("Is student:", is_student)
+print("Colors:", colors)
+print("Person:", person)
